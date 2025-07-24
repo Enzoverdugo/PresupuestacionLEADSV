@@ -1,0 +1,7 @@
+{
+  "name": "Maestro Mayor",
+  "description": "Maestro mayor especialista en construcción",
+  "baseSalary": 850000,
+  "bonuses": 150000,
+  "socialSecurityTax": 25.0
+}

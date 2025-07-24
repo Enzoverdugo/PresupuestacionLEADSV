@@ -1,0 +1,10 @@
+{
+  "roleName": "Jornal Especializado",
+  "baseSalary": 650000,
+  "transportationBonus": 45000,
+  "foodBonus": 60000,
+  "toolsWearBonus": 25000,
+  "socialSecurityTax": 25.0,
+  "workdaysPerMonth": 20,
+  "hoursPerDay": 8
+}

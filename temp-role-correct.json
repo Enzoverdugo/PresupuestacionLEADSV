@@ -1,0 +1,10 @@
+{
+  "roleName": "Maestro Mayor",
+  "baseSalary": 850000,
+  "transportationBonus": 50000,
+  "foodBonus": 70000,
+  "toolsWearBonus": 30000,
+  "socialSecurityTax": 25.0,
+  "workdaysPerMonth": 20,
+  "hoursPerDay": 8
+}

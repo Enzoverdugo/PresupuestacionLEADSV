@@ -1,0 +1,10 @@
+{
+  "roleName": "Ayudante",
+  "baseSalary": 450000,
+  "transportationBonus": 40000,
+  "foodBonus": 50000,
+  "toolsWearBonus": 15000,
+  "socialSecurityTax": 25.0,
+  "workdaysPerMonth": 20,
+  "hoursPerDay": 8
+}
